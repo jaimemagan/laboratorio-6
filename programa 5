@@ -10,7 +10,7 @@ int main(void)
     int n[100];//cantidad de elementos que contendra el arreglo
     int i;
     cout<<"los 100 numeros impares en manera  descendente: ";
-    for(i=199;i>=1;i-=2){//algoritmo que genera numeros impares
+    for(i=199;i>=1;i-=2){//algoritmo de numeros impares
     cout<<i<<" , ";
     
     }
